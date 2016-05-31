@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.author        = %q{KrauseFx}
   spec.email         = %q{KrauseFx@gmail.com}
 
-  spec.summary       = %q{Print a Club Mate in your build output}
+  spec.summary       = %q{Print the Club Mate logo in your build output}
   spec.homepage      = "https://github.com/KrauseFx/fastlane-plugin-clubmate"
   spec.license       = "MIT"
 
