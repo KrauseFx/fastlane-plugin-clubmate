@@ -14,6 +14,8 @@ fastlane add_plugin clubmate
 
 Print a Club Mate in your build output
 
+![Screenshot.png](Screenshot.png)
+
 ## Issues and Feedback
 
 For any other issues and feedback about this plugin, please submit it to this repository.
