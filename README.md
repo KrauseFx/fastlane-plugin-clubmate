@@ -1,4 +1,4 @@
-# fastlane-plugin-clubmate `fastlane` Plugin
+# plugin-clubmate fastlane plugin
 
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-clubmate)
 
@@ -14,7 +14,9 @@ fastlane add_plugin clubmate
 
 Print a Club Mate in your build output
 
-![Screenshot.png](Screenshot.png)
+<img src="Screenshot.png" width="300" />
+
+This will make all your deployments better
 
 ## Issues and Feedback
 
