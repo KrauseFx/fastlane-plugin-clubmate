@@ -1,4 +1,3 @@
-
 Style/ClassCheck:
   EnforcedStyle: kind_of?
 
@@ -142,6 +141,7 @@ AllCops:
     - '**/fastlane/Fastfile'
   Exclude:
     - '**/lib/assets/custom_action_template.rb'
+    - './vendor/**/*'
 
 ##################
 # TODO
