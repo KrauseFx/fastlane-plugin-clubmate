@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-clubmate'
   spec.version       = Fastlane::Clubmate::VERSION
   spec.author        = %q{KrauseFx}
-  spec.email         = %q{KrauseFx@gmail.com}
+  spec.email         = %q{clubmate@krausefx.com}
 
   spec.summary       = %q{Print the Club Mate logo in your build output}
   spec.homepage      = "https://github.com/KrauseFx/fastlane-plugin-clubmate"
@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rubocop'
-  spec.add_development_dependency 'fastlane', '>= 1.92.0.beta2'
+  spec.add_development_dependency 'fastlane', '>= 1.97.0'
 end
